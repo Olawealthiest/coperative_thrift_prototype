@@ -1,0 +1,1 @@
+This is a cooperative thrift prototype for an official App. Under no condition must this prototype be reused for any purpose other than that of its original usage intention. Any violation of this condition will lead to a full legal lawsuit, according to the Nigerian Act of Law governing Intellectual Rights (The Copyright Act,2022).
